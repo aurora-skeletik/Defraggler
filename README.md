@@ -204,4 +204,4 @@ Defraggler is provided as a **complete free version** with all features and upda
 Don't wait! **Download Defraggler free** today and keep your hard drives optimized for peak performance!
 
 ---
-**Last updated:** 2026-09-17 10:59:26 UTC
+**Last updated:** 2026-09-17 15:30:35 UTC
